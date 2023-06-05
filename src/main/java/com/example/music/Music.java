@@ -1,4 +1,4 @@
-packalbum com.example.music;
+package com.example.music;
 
 public class Music {
     private String name;
